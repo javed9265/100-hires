@@ -61,25 +61,17 @@ After editing the README locally, I expected the changes to appear on GitHub aut
 
 I solved this by learning that I need to commit the local changes first and then push them to GitHub.
 
-## 4. Commit And Push To GitHub
+## 4. How I Committed And Pushed To GitHub
 
-After creating and editing the README, the final step is to commit and push the changes to GitHub.
+After finishing the README, I pushed the work to GitHub manually from Cursor.
 
-These are the steps I need to follow in Cursor:
+First, I opened the cloned `100-hires` folder in Cursor. Then I clicked the Source Control icon on the left side, where Cursor showed the changed `README.md` file and the new `screenshots` folder.
 
-1. Open the cloned `100-hires` repository in Cursor.
-2. Click the Source Control icon on the left side.
-3. Check that `README.md` and the `screenshots` folder appear in the changed files.
-4. Write a commit message, for example:
+I reviewed the changed files once to make sure the README and screenshots were included. After that, I typed a commit message in the message box: **Update README with setup journey and screenshots**.
 
-```text
-Update README with setup journey and screenshots
-```
+Then I clicked the **Commit** button. After the commit was created, Cursor showed the option to sync or push the changes. I clicked **Sync Changes** / **Push** so the local commit would be uploaded to my GitHub repository.
 
-5. Click **Commit**.
-6. Click **Sync Changes** or **Push**.
-7. Refresh the GitHub repository page.
-8. Confirm that the full README and screenshots are visible on GitHub.
+Finally, I opened the GitHub repository page again and refreshed it. After refreshing, I could see the updated README content and the screenshots folder in the repository.
 
 ## 5. What I Learned
 
@@ -101,3 +93,4 @@ The biggest thing I learned is that creating files locally is not enough. To mak
 | GitHub authentication prompt in Cursor | <img src="screenshots/08-github-auth-code.png" width="500" alt="GitHub authentication prompt in Cursor"> |
 | Authorizing the device on GitHub | <img src="screenshots/09-authorize-device.png" width="500" alt="Authorizing the device on GitHub"> |
 | Repository found after GitHub connection | <img src="screenshots/10-repo-found.png" width="500" alt="Repository found after GitHub connection"> |
+
