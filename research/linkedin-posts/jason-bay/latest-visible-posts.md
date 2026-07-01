@@ -17,5 +17,5 @@
 ## Notes
 
 - The latest visible post is directly relevant because it talks about outbound pipeline generation methodology.
-- This replaces the earlier assumption that older public-search posts were enough to satisfy the "latest posts" requirement.
+- This replaces the earlier assumption that public-search posts were enough to satisfy the "latest posts" requirement.
 - Four latest visible posts are now recorded so this author has enough current material for comparison.

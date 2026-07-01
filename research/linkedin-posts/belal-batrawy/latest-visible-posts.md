@@ -16,6 +16,6 @@
 
 ## Notes
 
-- Belal's literal latest visible posts are not useful for this cold outreach project.
-- The previously collected cold call examples remain useful topic-relevant material, but they should not be described as his latest posts.
+- Belal's literal latest visible posts are mostly not useful for this cold outreach project.
+- The file keeps the latest visible record transparently rather than replacing it with older cold-calling posts.
 - Four recent items are recorded; posts 3 and 4 are the useful current sales-context items.

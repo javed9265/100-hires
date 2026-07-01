@@ -17,5 +17,5 @@
 ## Notes
 
 - Becc's latest visible post is exactly the kind of recent content Alex asked for.
-- The older 1-month cold email sequence posts remain useful supporting material, but this latest-post audit should be cited first.
+- The 1-month cold email sequence posts are still recent enough for this LinkedIn audit and should be cited from this latest-visible file.
 - Four items are recorded; post 2 is off-topic, while posts 1, 3, and 4 are strong cold email material.

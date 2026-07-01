@@ -17,5 +17,5 @@
 ## Notes
 
 - Nick's latest visible posts are more sales-cycle focused than outreach focused.
-- The older collected posts about offer CTAs and company-level personalization are more relevant to the cold outreach playbook.
+- Low-relevance recent items are kept for transparency rather than replaced with older LinkedIn material.
 - Four recent items are recorded; useful mostly for post-reply sales motion rather than first-touch outreach.

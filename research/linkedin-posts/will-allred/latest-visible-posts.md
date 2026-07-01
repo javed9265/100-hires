@@ -17,5 +17,5 @@
 ## Notes
 
 - Will's literal latest visible posts are not strong playbook material.
-- A recent 1-week post mentioned cold email personalization placeholders, but the previously collected topic-relevant posts are stronger for email strategy.
-- Four recent items are recorded; the older topic-relevant posts remain stronger for the playbook.
+- A recent 1-week post mentioned cold email personalization placeholders and is the strongest recent item for email strategy.
+- Four recent items are recorded; low-relevance items are kept for transparency rather than replaced with older LinkedIn material.

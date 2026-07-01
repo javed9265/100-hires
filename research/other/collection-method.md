@@ -23,11 +23,11 @@ Latest audit/depth update: 2026-07-02
 
 ## LinkedIn Workflow
 
-1. Find public LinkedIn posts from the selected experts.
-2. Run `tools/scrape_linkedin_post.py` to extract public metadata and a short source excerpt.
-3. Add research notes that explain why the post matters for a B2B SaaS cold outreach playbook.
-4. Use logged-in manual browser review when a high-value LinkedIn post is blocked, incomplete, or needs latest-activity verification.
-5. Review logged-in recent activity pages to capture 3-4 latest or recently visible items per expert.
+1. Review logged-in LinkedIn recent activity pages for the selected experts.
+2. Capture 3-4 latest or recently visible items per expert in each author's `latest-visible-posts.md` file.
+3. Add compact content notes in `research/other/linkedin-expanded-notes.md`.
+4. Mark low-relevance recent posts honestly instead of replacing them with older topic-relevant posts.
+5. Remove older scraped LinkedIn post files after tightening the recency standard.
 
 ## Copyright And Quality Handling
 

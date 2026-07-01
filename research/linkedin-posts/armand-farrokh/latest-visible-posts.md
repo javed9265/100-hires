@@ -17,5 +17,5 @@
 ## Notes
 
 - Armand's literal latest visible posts are not the strongest cold outreach sources.
-- The older collected posts on four-sentence cold email and voicemail/email pairing are more useful for the playbook, but they should be described as topic-relevant posts rather than latest posts.
+- Low-relevance recent items are kept for transparency rather than replaced with older LinkedIn material.
 - Four recent items are recorded; the current feed is more sales-cycle oriented than outreach-specific.

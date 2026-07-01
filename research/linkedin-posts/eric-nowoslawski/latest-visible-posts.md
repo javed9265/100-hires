@@ -17,5 +17,5 @@
 ## Notes
 
 - Eric's latest visible posts are directly useful for deliverability, measurement, and signal-based targeting.
-- These should be treated as higher-priority than the older public-search posts for final submission.
+- These should be treated as the LinkedIn evidence for final submission.
 - Four recent items are recorded; all four connect to outbound measurement, signals, stack design, or list building.

@@ -51,41 +51,31 @@ The YouTube set was rebuilt with a stricter recency rule: every selected video m
 | Alex Berman | Strong cold email source, but the first selected set already had enough email-heavy experts and needed room for deliverability and cold calling. |
 | Kevin Dorsey | Strong sales leadership and cold calling source, but less specifically focused on cold outreach pipeline build than the selected first-pass set. |
 
-## Topic-Relevant LinkedIn Posts From Public Web Discovery
+## Recent LinkedIn Source Set
 
-These are not all latest posts. They are supporting posts selected because they contain strong cold outreach material. Latest visible LinkedIn posts are tracked separately in each expert folder and summarized in `research/other/latest-linkedin-audit.md`. Relative date signals are recorded as they appeared at collection time.
+Older public-search LinkedIn post files were removed. The LinkedIn evidence now uses logged-in recent-activity review only: each selected expert has one `latest-visible-posts.md` file with 3-4 latest or recently visible items, and `research/other/linkedin-expanded-notes.md` summarizes the content compactly.
 
-| Expert | Post URL | Source/date note | Why it matters |
+| Expert | Recent activity page | Date signals captured | Notes |
 | --- | --- | --- | --- |
-| Jason Bay | https://www.linkedin.com/posts/jasondbay_85-million-cold-emails-taught-us-these-15-activity-7354525853990436864-eX8w | Supporting public-web post; 2025, about 11 months old at collection time. | Cold email lessons from a large outbound dataset. |
-| Jason Bay | https://www.linkedin.com/posts/jasondbay_there-are-only-2-ways-to-succeed-at-outbound-activity-7457806387289460737-dcFu | Supporting public-web post; 2026, about 1 month old at collection time. | Recent view on why outbound now needs calling skill and visible market signal. |
-| Josh Braun | https://www.linkedin.com/posts/josh-braun_cold-email-personalization-at-scale-is-very-activity-7411727780008181760-X9CF | Supporting public-web post; 2026, about 6 months old at collection time. | Relevant framing on personalization versus shared-problem segmentation. |
-| Josh Braun | https://www.linkedin.com/posts/josh-braun_this-cold-email-has-a-90-positive-response-activity-7364328750404014082-cQo6 | Supporting public-web post; 2025, about 10 months old at collection time. | Example of a cold email strategy that avoids premature demo asks. |
-| Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_this-is-the-type-of-campaign-i-would-suggest-activity-7419050979062358016-mgZ2 | Supporting public-web post; 2026, about 5 months old at collection time. | First-campaign strategy from an outbound agency operator. |
-| Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_after-running-outbound-campaigns-as-a-service-activity-7378779468238135297-fVPl | Supporting public-web post; 2025, about 9 months old at collection time. | Breaks cold email into infrastructure, list, and message components. |
-| Florin Tatulea | https://www.linkedin.com/posts/florintatulea_sales-ai-activity-7462884073343127552-3UXi | Supporting public-web post; 2026, about 1 month old at collection time. | Recent GTM engineering and outbound systems content. |
-| Florin Tatulea | https://www.linkedin.com/posts/florintatulea_its-2024-and-most-cold-emails-are-still-activity-7178054416845967360-09aX | Supporting public-web post; 2024 durable framework. | Trigger-problem-outcome framing for cold email. |
-| Becc Holland | https://www.linkedin.com/posts/beccholland-flipthescript_heres-5-cold-email-tips-that-i-live-by-activity-7459964347650371584-jeo7 | Public LinkedIn post | Cold email length, links, and unique value checklist. |
-| Becc Holland | https://www.linkedin.com/posts/beccholland-flipthescript_ok-yall-heres-5-cold-email-tips-to-activity-7460687975421689857-vNpQ | Public LinkedIn post | Sequence timing, third-party content, and pattern interrupts. |
-| Armand Farrokh | https://www.linkedin.com/posts/armand-farrokh_you-only-need-4-sentences-in-the-perfect-activity-7351995314146320386---Ip | Public LinkedIn post | Four-sentence cold email structure. |
-| Armand Farrokh | https://www.linkedin.com/posts/armand-farrokh_30mpc-sales-coldcalling-activity-7354266479564873730-LHJk | Public LinkedIn post | Voicemail and email pairing for multi-channel outbound. |
-| Nick Cegelski | https://www.linkedin.com/posts/nick-cegelski_nobody-replying-to-your-cold-emailsthis-activity-7353093515704217600-TsdR | Public LinkedIn post | Offer CTAs instead of time-based meeting asks. |
-| Nick Cegelski | https://www.linkedin.com/posts/nick-cegelski_individual-personalization-is-shockingly-activity-7348736248754196480-JSOx | Public LinkedIn post | Company-level personalization for executives. |
-| Will Allred | https://www.linkedin.com/posts/williamallred_struggling-to-convert-cold-email-replies-activity-7406683274271686656-pxqa | Public LinkedIn post | Reply handling after cold email engagement. |
-| Will Allred | https://www.linkedin.com/posts/williamallred_cold-email-might-not-work-for-your-sellers-activity-7333868242806980610-ZVOK | Public LinkedIn post | Four cold email strategy categories by effort and context. |
-| Belal Batrawy | https://www.linkedin.com/posts/belbatrawy_im-gonna-share-a-cold-calling-tip-that-will-activity-7185984524533571584-jvHD | Public LinkedIn post | Cold call language and avoiding weak assumptions. |
-| Belal Batrawy | https://www.linkedin.com/posts/belbatrawy_heres-a-condensed-transcript-of-a-good-activity-7366512461769879552-E4yv | Public LinkedIn post | Example cold call structure. |
-| Jesse Ouellette | https://www.linkedin.com/posts/jesseoue_your-cold-email-game-is-outdated-the-gurus-activity-7308127009270808576-DjFc | Public LinkedIn post | Cold email fundamentals, process, and data quality. |
-| Jesse Ouellette | https://www.linkedin.com/posts/jesseoue_when-i-say-this-i-truly-believe-it-activity-7221206663603589120-9Im0 | Public LinkedIn post | Waterfall enrichment and contact data quality. |
+| Jason Bay | https://www.linkedin.com/in/jasondbay/recent-activity/all/ | 6d, 1w, 1w, 1w | Recent outbound methodology, AE self-sourcing, and anti-mass-automation posts. |
+| Josh Braun | https://www.linkedin.com/in/josh-braun/recent-activity/all/ | 3h, 6h, 7h, 8h | Recent buyer expertise, cold-call resistance, and objection-handling posts. |
+| Eric Nowoslawski | https://www.linkedin.com/in/outboundphd/recent-activity/all/ | 58m, 4h, 1d, 1d | Recent deliverability, targeting, outbound stack, and local lead-generation posts. |
+| Florin Tatulea | https://www.linkedin.com/in/florintatulea/recent-activity/all/ | 2h, 1d, 6d, 1w | Recent AI GTM signal, champion tracking, CRM context, and account-context posts. |
+| Becc Holland | https://www.linkedin.com/in/beccholland-flipthescript/recent-activity/all/ | 9m, 5d, 1mo, 1mo | Recent cold email, deliverability, sequence timing, and outbound SQL posts. |
+| Armand Farrokh | https://www.linkedin.com/in/armand-farrokh/recent-activity/all/ | 2h, 4d, 6d, 1w | Recent sales community and negotiation posts; kept for latest-activity transparency. |
+| Nick Cegelski | https://www.linkedin.com/in/nick-cegelski/recent-activity/all/ | 1d, 5d, 1w, 1w | Recent sales process, discounting, payment, and proposal-handling posts. |
+| Will Allred | https://www.linkedin.com/in/williamallred/recent-activity/all/ | 3d, 5d, 1w, 1w | Recent AI workflow and cold email personalization-quality posts. |
+| Belal Batrawy | https://www.linkedin.com/in/belbatrawy/recent-activity/all/ | 1w, 1w, 1w, 1w | Recent Hyperbound/ICP context plus off-topic reposts marked transparently. |
+| Jesse Ouellette | https://www.linkedin.com/in/jesseoue/recent-activity/all/ | 1mo, 3mo, 5mo, 5mo | Recent email validation, GTM agent, automation, and deliverability posts. |
 
 ## Collection Notes
 
 - YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/build_recent_youtube_transcripts.py`.
 - YouTube transcript files were rebuilt into the assignment format after enforcing the 6-month recency rule.
 - YouTube recency and relevance decisions are documented in `research/other/youtube-source-audit.md`.
-- Public LinkedIn posts were scraped with `tools/scrape_linkedin_post.py`.
+- Public LinkedIn scraping was used in the first pass, but older scraped post files were removed after tightening the recency standard.
 - Latest visible LinkedIn posts were then checked through logged-in recent activity pages and summarized in each author's `latest-visible-posts.md` file, with 3-4 items recorded where available.
 - The latest-post audit is summarized in `research/other/latest-linkedin-audit.md`.
 - Expanded recent LinkedIn content notes are summarized in `research/other/linkedin-expanded-notes.md`.
 - YouTube files include key takeaways and full timestamped transcript sections collected through the transcript API.
-- When an expert's literal latest posts were off-topic, they were still recorded for transparency and older topic-relevant posts were kept as supporting playbook material.
+- When an expert's literal latest posts were off-topic, they were still recorded for transparency instead of being replaced with older LinkedIn material.
