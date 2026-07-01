@@ -64,9 +64,11 @@ These are not all latest posts. They are supporting posts selected because they 
 ## Collection Notes
 
 - YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/fetch_supadata_transcript.py`.
+- YouTube transcript files were rebuilt into the assignment format with `tools/rebuild_youtube_transcript_files.py`.
+- YouTube recency and relevance decisions are documented in `research/other/youtube-source-audit.md`.
 - Public LinkedIn posts were scraped with `tools/scrape_linkedin_post.py`.
 - Latest visible LinkedIn posts were then checked through logged-in recent activity pages and summarized in each author's `latest-visible-posts.md` file, with 3-4 items recorded where available.
 - The latest-post audit is summarized in `research/other/latest-linkedin-audit.md`.
 - Expanded recent LinkedIn content notes are summarized in `research/other/linkedin-expanded-notes.md`.
-- Raw transcript dumps were converted into curated source notes, short excerpts, condensed transcript notes, and playbook implications before committing.
+- YouTube files include key takeaways and full timestamped transcript sections collected through the transcript API.
 - When an expert's literal latest posts were off-topic, they were still recorded for transparency and older topic-relevant posts were kept as supporting playbook material.

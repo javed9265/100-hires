@@ -13,24 +13,24 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 ### What I Collected So Far
 
 - 10 selected experts who actively teach or practice cold outreach, outbound sales, cold email, cold calling, deliverability, or pipeline building.
-- YouTube transcript-derived notes collected with the Supadata transcript API through a local Codex script, then expanded into compact condensed transcript notes.
+- YouTube transcripts collected with the Supadata transcript API through local Codex scripts, then rewritten into a consistent format with key takeaways and full timestamped transcript sections.
 - 20 public LinkedIn post notes collected with a Codex scraping script where the posts were publicly accessible.
 - Latest visible LinkedIn post audits for all 10 experts, collected after signing into LinkedIn and reviewing each expert's recent activity page. Each expert now has 3-4 latest or recently visible items recorded.
-- Source links, date signals, collection method, short excerpts, and practical research notes.
+- Source links, date signals, collection method, full YouTube transcript sections, short LinkedIn excerpts, and practical research notes.
 
 ### Research Structure
 
 - `research/sources.md`: selected experts, links, dates, annotations, and collection notes.
 - `research/youtube-transcripts/`: transcript-derived notes organized by expert and video.
 - `research/linkedin-posts/`: LinkedIn post notes organized by author.
-- `research/other/`: collection method, latest-post audit, expanded LinkedIn notes, and supporting notes.
+- `research/other/`: collection method, latest-post audit, YouTube source audit, expanded LinkedIn notes, and supporting notes.
 - `tools/`: local scripts used for transcript and LinkedIn collection.
 
 ### Collection Method
 
-For YouTube, I used Codex with a local Python script and the Supadata YouTube transcript API. For LinkedIn, I used public HTML scraping where possible, then reviewed the experts' recent activity pages through a logged-in LinkedIn browser session to verify latest visible posts. I did not commit raw third-party transcript dumps; instead I kept source URLs, collection method, curated notes, date signals, and playbook implications.
+For YouTube, I used Codex with local Python scripts and the Supadata YouTube transcript API. Each YouTube file now includes the video title, expert, YouTube URL, published date, key takeaways, and a full timestamped transcript section. For LinkedIn, I used public HTML scraping where possible, then reviewed the experts' recent activity pages through a logged-in LinkedIn browser session to verify latest visible posts.
 
-The current research folder includes YouTube transcript-derived notes for all 10 selected experts, two topic-relevant LinkedIn post notes for each expert, a latest-visible-post audit for each expert with 3-4 recent items where available, and `research/other/linkedin-expanded-notes.md` with compact content notes for each expert. The latest audit is intentionally transparent: when an expert's newest visible posts were off-topic, I marked that instead of forcing weak material into the playbook.
+The current research folder includes full YouTube transcript files for all 10 selected experts, two topic-relevant LinkedIn post notes for each expert, a latest-visible-post audit for each expert with 3-4 recent items where available, and `research/other/linkedin-expanded-notes.md` with compact content notes for each expert. The latest audit is intentionally transparent: when an expert's newest visible posts were off-topic, I marked that instead of forcing weak material into the playbook.
 
 Some older LinkedIn files are kept as topic-relevant supporting material because they contain strong frameworks. They are not presented as the latest posts; the latest-post evidence is in each author's `latest-visible-posts.md` file and in `research/other/latest-linkedin-audit.md`.
 

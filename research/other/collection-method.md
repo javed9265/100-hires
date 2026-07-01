@@ -17,7 +17,8 @@ Latest audit/depth update: 2026-07-02
 1. Find expert videos that directly discuss cold outreach, outbound sales, cold email, deliverability, or pipeline building.
 2. Run `tools/fetch_supadata_transcript.py` with `SUPADATA_API_KEY` stored in the local environment.
 3. Capture source metadata, transcript language, and collection method.
-4. Convert raw transcript output into curated research notes with source links, key ideas, condensed transcript notes, and playbook implications.
+4. Rebuild the YouTube files with `tools/rebuild_youtube_transcript_files.py` so each file has title, expert, YouTube URL, published date, key takeaways, and full timestamped transcript.
+5. Document whether each video is recent or an older durable source in `research/other/youtube-source-audit.md`.
 
 ## LinkedIn Workflow
 
@@ -29,6 +30,7 @@ Latest audit/depth update: 2026-07-02
 
 ## Copyright And Quality Handling
 
-- Full third-party transcripts and full LinkedIn posts were not committed as raw dumps.
-- The repository keeps source URLs, collection method, short excerpts, condensed transcript notes, and original research notes.
+- Full YouTube transcript sections are included because the assignment requested YouTube transcripts collected through an API.
+- Full LinkedIn posts were not committed as raw dumps.
+- The repository keeps source URLs, collection method, YouTube transcript sections, short LinkedIn excerpts, and original research notes.
 - This keeps the material useful for future playbook writing while still showing the technical collection workflow.
