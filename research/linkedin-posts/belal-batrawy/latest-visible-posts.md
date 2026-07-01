@@ -3,6 +3,7 @@
 - Collection date: 2026-07-01
 - Collection method: Logged-in LinkedIn recent activity review in Codex in-app browser
 - Activity page: https://www.linkedin.com/in/belbatrawy/recent-activity/all/
+- Date signals: LinkedIn relative labels captured at collection time.
 
 ## Latest Visible Posts
 

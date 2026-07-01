@@ -2,7 +2,9 @@
 
 - Topic: Cold outreach pipeline for B2B SaaS
 - Audit date: 2026-07-01
+- Expanded review date: 2026-07-02
 - Method: Logged-in LinkedIn recent activity review in Codex in-app browser
+- Date signals: LinkedIn relative labels captured at audit time
 
 ## Why This Audit Was Added
 

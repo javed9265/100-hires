@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/jesseoue_your-cold-email-game-is-outdated-the-gurus-activity-7308127009270808576-DjFc
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

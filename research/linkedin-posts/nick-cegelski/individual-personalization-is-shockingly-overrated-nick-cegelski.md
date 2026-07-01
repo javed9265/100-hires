@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/nick-cegelski_individual-personalization-is-shockingly-activity-7348736248754196480-JSOx
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

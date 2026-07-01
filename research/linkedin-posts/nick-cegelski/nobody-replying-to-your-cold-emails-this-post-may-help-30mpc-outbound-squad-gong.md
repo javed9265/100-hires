@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/nick-cegelski_nobody-replying-to-your-cold-emailsthis-activity-7353093515704217600-TsdR
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

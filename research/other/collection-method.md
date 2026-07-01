@@ -2,7 +2,8 @@
 
 Topic: Cold outreach pipeline for B2B SaaS
 
-Collection date: 2026-07-01
+Initial collection date: 2026-07-01
+Latest audit/depth update: 2026-07-02
 
 ## Tools Used
 
@@ -23,7 +24,7 @@ Collection date: 2026-07-01
 1. Find public LinkedIn posts from the selected experts.
 2. Run `tools/scrape_linkedin_post.py` to extract public metadata and a short source excerpt.
 3. Add research notes that explain why the post matters for a B2B SaaS cold outreach playbook.
-4. Use manual browser review later if a high-value LinkedIn post is blocked or incomplete.
+4. Use logged-in manual browser review when a high-value LinkedIn post is blocked, incomplete, or needs latest-activity verification.
 5. Review logged-in recent activity pages to capture 3-4 latest or recently visible items per expert.
 
 ## Copyright And Quality Handling

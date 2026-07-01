@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/armand-farrokh_30mpc-sales-coldcalling-activity-7354266479564873730-LHJk
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/belbatrawy_heres-a-condensed-transcript-of-a-good-activity-7366512461769879552-E4yv
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

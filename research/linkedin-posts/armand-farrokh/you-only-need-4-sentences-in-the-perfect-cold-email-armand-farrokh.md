@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/armand-farrokh_you-only-need-4-sentences-in-the-perfect-activity-7351995314146320386---Ip
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

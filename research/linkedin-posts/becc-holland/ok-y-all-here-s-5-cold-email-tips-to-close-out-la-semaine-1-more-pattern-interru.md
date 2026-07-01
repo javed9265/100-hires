@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/beccholland-flipthescript_ok-yall-heres-5-cold-email-tips-to-activity-7460687975421689857-vNpQ
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

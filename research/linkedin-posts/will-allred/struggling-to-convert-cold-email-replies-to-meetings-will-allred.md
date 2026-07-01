@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/williamallred_struggling-to-convert-cold-email-replies-activity-7406683274271686656-pxqa
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

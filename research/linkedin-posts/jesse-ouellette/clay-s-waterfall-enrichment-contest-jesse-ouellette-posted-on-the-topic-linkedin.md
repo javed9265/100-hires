@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/jesseoue_when-i-say-this-i-truly-believe-it-activity-7221206663603589120-9Im0
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

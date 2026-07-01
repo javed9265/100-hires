@@ -2,6 +2,7 @@
 
 - Source URL: https://www.linkedin.com/posts/beccholland-flipthescript_heres-5-cold-email-tips-that-i-live-by-activity-7459964347650371584-jeo7
 - Collection method: Public LinkedIn HTML scrape through Codex
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
 
 ## Short Source Excerpt
 

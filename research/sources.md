@@ -2,7 +2,8 @@
 
 Topic chosen: Cold outreach pipeline for B2B SaaS
 
-Collection date: 2026-07-01
+Initial collection date: 2026-07-01
+Latest audit/depth update: 2026-07-02
 
 ## Selection Criteria
 
@@ -35,7 +36,7 @@ Collection date: 2026-07-01
 
 ## Topic-Relevant LinkedIn Posts From Public Web Discovery
 
-These are not all latest posts. They are supporting posts selected because they contain strong cold outreach material. Latest visible LinkedIn posts are tracked separately in each expert folder and summarized in `research/other/latest-linkedin-audit.md`.
+These are not all latest posts. They are supporting posts selected because they contain strong cold outreach material. Latest visible LinkedIn posts are tracked separately in each expert folder and summarized in `research/other/latest-linkedin-audit.md`. Relative date signals are recorded as they appeared at collection time.
 
 | Expert | Post URL | Source/date note | Why it matters |
 | --- | --- | --- | --- |
