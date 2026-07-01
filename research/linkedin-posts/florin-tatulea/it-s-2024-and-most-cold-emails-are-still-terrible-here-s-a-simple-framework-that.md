@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/florintatulea_its-2024-and-most-cold-emails-are-still-activity-7178054416845967360-09aX
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2024, durable framework
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Date signal: 2024 durable framework.
 
 ## Short Source Excerpt
 

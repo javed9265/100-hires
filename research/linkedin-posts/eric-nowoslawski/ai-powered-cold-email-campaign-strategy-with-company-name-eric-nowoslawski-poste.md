@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/outboundphd_this-is-the-type-of-campaign-i-would-suggest-activity-7419050979062358016-mgZ2
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2026, shown as 5 months old in search result
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Approximate age at collection: about 5 months old.
 
 ## Short Source Excerpt
 

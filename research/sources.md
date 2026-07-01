@@ -33,18 +33,20 @@ Collection date: 2026-07-01
 | Alex Berman | Strong cold email source, but the first selected set already had enough email-heavy experts and needed room for deliverability and cold calling. |
 | Kevin Dorsey | Strong sales leadership and cold calling source, but less specifically focused on cold outreach pipeline build than the selected first-pass set. |
 
-## LinkedIn Posts Found for Collection
+## Topic-Relevant LinkedIn Posts From Public Web Discovery
 
-| Expert | Post URL | Date signal | Why it matters |
+These are not all latest posts. They are supporting posts selected because they contain strong cold outreach material. Latest visible LinkedIn posts are tracked separately in each expert folder and summarized in `research/other/latest-linkedin-audit.md`.
+
+| Expert | Post URL | Source/date note | Why it matters |
 | --- | --- | --- | --- |
-| Jason Bay | https://www.linkedin.com/posts/jasondbay_85-million-cold-emails-taught-us-these-15-activity-7354525853990436864-eX8w | 2025 / 11 months ago in search result | Cold email lessons from a large outbound dataset. |
-| Jason Bay | https://www.linkedin.com/posts/jasondbay_there-are-only-2-ways-to-succeed-at-outbound-activity-7457806387289460737-dcFu | 2026 / last month in search result | Recent view on why outbound now needs calling skill and visible market signal. |
-| Josh Braun | https://www.linkedin.com/posts/josh-braun_cold-email-personalization-at-scale-is-very-activity-7411727780008181760-X9CF | 2026 / 6 months ago in search result | Relevant framing on personalization versus shared-problem segmentation. |
-| Josh Braun | https://www.linkedin.com/posts/josh-braun_this-cold-email-has-a-90-positive-response-activity-7364328750404014082-cQo6 | 2025 / 10 months ago in search result | Example of a cold email strategy that avoids premature demo asks. |
-| Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_this-is-the-type-of-campaign-i-would-suggest-activity-7419050979062358016-mgZ2 | 2026 / 5 months ago in search result | First-campaign strategy from an outbound agency operator. |
-| Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_after-running-outbound-campaigns-as-a-service-activity-7378779468238135297-fVPl | 2025 / 9 months ago in search result | Breaks cold email into infrastructure, list, and message components. |
-| Florin Tatulea | https://www.linkedin.com/posts/florintatulea_sales-ai-activity-7462884073343127552-3UXi | 2026 / last month in search result | Recent GTM engineering and outbound systems content. |
-| Florin Tatulea | https://www.linkedin.com/posts/florintatulea_its-2024-and-most-cold-emails-are-still-activity-7178054416845967360-09aX | 2024 / durable framework | Trigger-problem-outcome framing for cold email. |
+| Jason Bay | https://www.linkedin.com/posts/jasondbay_85-million-cold-emails-taught-us-these-15-activity-7354525853990436864-eX8w | Supporting public-web post; 2025, about 11 months old at collection time. | Cold email lessons from a large outbound dataset. |
+| Jason Bay | https://www.linkedin.com/posts/jasondbay_there-are-only-2-ways-to-succeed-at-outbound-activity-7457806387289460737-dcFu | Supporting public-web post; 2026, about 1 month old at collection time. | Recent view on why outbound now needs calling skill and visible market signal. |
+| Josh Braun | https://www.linkedin.com/posts/josh-braun_cold-email-personalization-at-scale-is-very-activity-7411727780008181760-X9CF | Supporting public-web post; 2026, about 6 months old at collection time. | Relevant framing on personalization versus shared-problem segmentation. |
+| Josh Braun | https://www.linkedin.com/posts/josh-braun_this-cold-email-has-a-90-positive-response-activity-7364328750404014082-cQo6 | Supporting public-web post; 2025, about 10 months old at collection time. | Example of a cold email strategy that avoids premature demo asks. |
+| Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_this-is-the-type-of-campaign-i-would-suggest-activity-7419050979062358016-mgZ2 | Supporting public-web post; 2026, about 5 months old at collection time. | First-campaign strategy from an outbound agency operator. |
+| Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_after-running-outbound-campaigns-as-a-service-activity-7378779468238135297-fVPl | Supporting public-web post; 2025, about 9 months old at collection time. | Breaks cold email into infrastructure, list, and message components. |
+| Florin Tatulea | https://www.linkedin.com/posts/florintatulea_sales-ai-activity-7462884073343127552-3UXi | Supporting public-web post; 2026, about 1 month old at collection time. | Recent GTM engineering and outbound systems content. |
+| Florin Tatulea | https://www.linkedin.com/posts/florintatulea_its-2024-and-most-cold-emails-are-still-activity-7178054416845967360-09aX | Supporting public-web post; 2024 durable framework. | Trigger-problem-outcome framing for cold email. |
 | Becc Holland | https://www.linkedin.com/posts/beccholland-flipthescript_heres-5-cold-email-tips-that-i-live-by-activity-7459964347650371584-jeo7 | Public LinkedIn post | Cold email length, links, and unique value checklist. |
 | Becc Holland | https://www.linkedin.com/posts/beccholland-flipthescript_ok-yall-heres-5-cold-email-tips-to-activity-7460687975421689857-vNpQ | Public LinkedIn post | Sequence timing, third-party content, and pattern interrupts. |
 | Armand Farrokh | https://www.linkedin.com/posts/armand-farrokh_you-only-need-4-sentences-in-the-perfect-activity-7351995314146320386---Ip | Public LinkedIn post | Four-sentence cold email structure. |

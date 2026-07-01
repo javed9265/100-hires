@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/outboundphd_after-running-outbound-campaigns-as-a-service-activity-7378779468238135297-fVPl
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2025, shown as 9 months old in search result
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Approximate age at collection: about 9 months old.
 
 ## Short Source Excerpt
 

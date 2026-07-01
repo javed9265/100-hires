@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/josh-braun_this-cold-email-has-a-90-positive-response-activity-7364328750404014082-cQo6
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2025, shown as 10 months old in search result
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Approximate age at collection: about 10 months old.
 
 ## Short Source Excerpt
 

@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/jasondbay_85-million-cold-emails-taught-us-these-15-activity-7354525853990436864-eX8w
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2025, shown as 11 months old in search result
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Approximate age at collection: about 11 months old.
 
 ## Short Source Excerpt
 

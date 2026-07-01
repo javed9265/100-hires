@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/florintatulea_sales-ai-activity-7462884073343127552-3UXi
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2026, shown as last month in search result
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Approximate age at collection: about 1 month old.
 
 ## Short Source Excerpt
 

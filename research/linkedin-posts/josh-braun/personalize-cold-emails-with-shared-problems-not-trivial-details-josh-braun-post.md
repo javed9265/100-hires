@@ -2,7 +2,8 @@
 
 - Source URL: https://www.linkedin.com/posts/josh-braun_cold-email-personalization-at-scale-is-very-activity-7411727780008181760-X9CF
 - Collection method: Public LinkedIn HTML scrape through Codex
-- Date signal: 2026, shown as 6 months old in search result
+- Source type: Topic-relevant supporting post from public web discovery; not one of the latest visible LinkedIn posts.
+- Approximate age at collection: about 6 months old.
 
 ## Short Source Excerpt
 

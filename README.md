@@ -32,6 +32,8 @@ For YouTube, I used Codex with a local Python script and the Supadata YouTube tr
 
 The current research folder includes YouTube transcript-derived notes for all 10 selected experts, two topic-relevant LinkedIn post notes for each expert, a latest-visible-post audit for each expert with 3-4 recent items where available, and `research/other/linkedin-expanded-notes.md` with compact content notes for each expert. The latest audit is intentionally transparent: when an expert's newest visible posts were off-topic, I marked that instead of forcing weak material into the playbook.
 
+Some older LinkedIn files are kept as topic-relevant supporting material because they contain strong frameworks. They are not presented as the latest posts; the latest-post evidence is in each author's `latest-visible-posts.md` file and in `research/other/latest-linkedin-audit.md`.
+
 ## 1. Tools I Installed
 
 These are the main tools and extensions I installed or used during the setup:
