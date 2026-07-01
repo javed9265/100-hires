@@ -2,6 +2,22 @@
 
 This repository documents my first setup journey with Cursor, Claude Code, Codex, and GitHub. I wrote it like a simple learning log so the full process is clear: what I installed, what steps I completed, what issues came up, and how I solved them.
 
+## Reviewer Quick Start
+
+Current research topic: **Cold outreach pipeline for B2B SaaS**
+
+Final submission summary: `FINAL-SUBMISSION.md`
+
+Main research files:
+
+- `research/sources.md`: expert/source list, links, dates, annotations, and collection notes.
+- `research/linkedin-posts/`: latest visible LinkedIn activity notes organized by expert.
+- `research/youtube-transcripts/`: recent YouTube transcripts organized by video.
+- `research/other/`: collection method, audits, high-signal supporting resources, cross-source synthesis, and early playbook checklist.
+- `tools/`: local scripts used for transcript/API collection and source processing.
+
+The original setup log is kept lower in this README because it was part of the first repository setup task.
+
 ## Current Research Project
 
 I am now building a research project on this topic:
@@ -17,6 +33,8 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 - Latest visible LinkedIn post audits for all 10 experts, collected after signing into LinkedIn and reviewing each expert's recent activity page. Each expert now has 3-4 latest or recently visible items recorded.
 - A focused `/research/other/` support layer with 2026 cold email benchmarks, official Gmail/Yahoo sender guidance, data-backed Gong/30MPC research, Sopro prospecting resources, company guides, templates, a case study, and original cross-source synthesis notes.
 - Source links, date signals, collection method, full YouTube transcript sections, short LinkedIn excerpts, and practical research notes.
+
+The LinkedIn expert roster and the YouTube transcript roster are intentionally not forced to be identical. For LinkedIn, I used latest visible activity from the selected expert set. For YouTube, I prioritized strict recency and topic relevance, so I used recent transcript sources when a selected LinkedIn expert did not have a strong YouTube video inside the 6-month window.
 
 ### Research Structure
 

@@ -12,7 +12,7 @@ Latest audit/depth update: 2026-07-02
 - Teaches from field examples, client work, operating experience, or repeatable systems.
 - Has collectable source material from YouTube, LinkedIn, podcasts, newsletters, or company resources.
 
-## Selected LinkedIn Expert Set For First Research Pass
+## Core LinkedIn Expert Set
 
 | Status | Expert | Why considered | Source links found |
 | --- | --- | --- | --- |
@@ -27,9 +27,13 @@ Latest audit/depth update: 2026-07-02
 | Selected | Belal Batrawy | Outbound sales practitioner known for no-fluff cold call and messaging breakdowns. | LinkedIn: https://www.linkedin.com/in/belbatrawy/ ; YouTube: https://www.youtube.com/watch?v=m2UBXcY4KCE |
 | Selected | Jesse Ouellette | Founder/operator focused on cold email infrastructure, email waterfall, list building, and deliverability. | YouTube: https://www.youtube.com/watch?v=FSc54cRCdJk ; YouTube backup: https://www.youtube.com/watch?v=pQRfa86Qf3k |
 
+This is the main LinkedIn recent-activity roster. It is focused on people who actively publish or practice cold outreach, outbound sales, deliverability, messaging, and pipeline generation.
+
 ## Recent YouTube Source Set
 
 The YouTube set was rebuilt with a stricter recency rule: every selected video must be published on or after 2026-01-02, which is within 6 months of the July 2, 2026 audit date.
+
+The YouTube transcript roster is not forced to match the LinkedIn roster one-to-one. When a core LinkedIn expert did not have a strong, relevant YouTube source inside the strict 6-month window, I used another high-signal practitioner/source so the transcript folder stayed recent and useful instead of relying on older videos.
 
 | Expert/source | Video | Published | Why selected |
 | --- | --- | --- | --- |
