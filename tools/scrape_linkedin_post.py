@@ -69,7 +69,7 @@ def build_markdown(url: str, expert: str, title: str, description: str) -> str:
             "",
             "## Research Notes",
             "",
-            "- To be summarized after expert selection is finalized.",
+            "- Add why this post matters, the main idea, and the playbook implication.",
             "",
         ]
     )

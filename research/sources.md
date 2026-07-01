@@ -45,6 +45,18 @@ Collection date: 2026-07-01
 | Eric Nowoslawski | https://www.linkedin.com/posts/outboundphd_after-running-outbound-campaigns-as-a-service-activity-7378779468238135297-fVPl | 2025 / 9 months ago in search result | Breaks cold email into infrastructure, list, and message components. |
 | Florin Tatulea | https://www.linkedin.com/posts/florintatulea_sales-ai-activity-7462884073343127552-3UXi | 2026 / last month in search result | Recent GTM engineering and outbound systems content. |
 | Florin Tatulea | https://www.linkedin.com/posts/florintatulea_its-2024-and-most-cold-emails-are-still-activity-7178054416845967360-09aX | 2024 / durable framework | Trigger-problem-outcome framing for cold email. |
+| Becc Holland | https://www.linkedin.com/posts/beccholland-flipthescript_heres-5-cold-email-tips-that-i-live-by-activity-7459964347650371584-jeo7 | Public LinkedIn post | Cold email length, links, and unique value checklist. |
+| Becc Holland | https://www.linkedin.com/posts/beccholland-flipthescript_ok-yall-heres-5-cold-email-tips-to-activity-7460687975421689857-vNpQ | Public LinkedIn post | Sequence timing, third-party content, and pattern interrupts. |
+| Armand Farrokh | https://www.linkedin.com/posts/armand-farrokh_you-only-need-4-sentences-in-the-perfect-activity-7351995314146320386---Ip | Public LinkedIn post | Four-sentence cold email structure. |
+| Armand Farrokh | https://www.linkedin.com/posts/armand-farrokh_30mpc-sales-coldcalling-activity-7354266479564873730-LHJk | Public LinkedIn post | Voicemail and email pairing for multi-channel outbound. |
+| Nick Cegelski | https://www.linkedin.com/posts/nick-cegelski_nobody-replying-to-your-cold-emailsthis-activity-7353093515704217600-TsdR | Public LinkedIn post | Offer CTAs instead of time-based meeting asks. |
+| Nick Cegelski | https://www.linkedin.com/posts/nick-cegelski_individual-personalization-is-shockingly-activity-7348736248754196480-JSOx | Public LinkedIn post | Company-level personalization for executives. |
+| Will Allred | https://www.linkedin.com/posts/williamallred_struggling-to-convert-cold-email-replies-activity-7406683274271686656-pxqa | Public LinkedIn post | Reply handling after cold email engagement. |
+| Will Allred | https://www.linkedin.com/posts/williamallred_cold-email-might-not-work-for-your-sellers-activity-7333868242806980610-ZVOK | Public LinkedIn post | Four cold email strategy categories by effort and context. |
+| Belal Batrawy | https://www.linkedin.com/posts/belbatrawy_im-gonna-share-a-cold-calling-tip-that-will-activity-7185984524533571584-jvHD | Public LinkedIn post | Cold call language and avoiding weak assumptions. |
+| Belal Batrawy | https://www.linkedin.com/posts/belbatrawy_heres-a-condensed-transcript-of-a-good-activity-7366512461769879552-E4yv | Public LinkedIn post | Example cold call structure. |
+| Jesse Ouellette | https://www.linkedin.com/posts/jesseoue_your-cold-email-game-is-outdated-the-gurus-activity-7308127009270808576-DjFc | Public LinkedIn post | Cold email fundamentals, process, and data quality. |
+| Jesse Ouellette | https://www.linkedin.com/posts/jesseoue_when-i-say-this-i-truly-believe-it-activity-7221206663603589120-9Im0 | Public LinkedIn post | Waterfall enrichment and contact data quality. |
 
 ## Collection Notes
 

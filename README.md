@@ -14,7 +14,7 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 
 - 10 selected experts who actively teach or practice cold outreach, outbound sales, cold email, cold calling, deliverability, or pipeline building.
 - YouTube transcript-derived notes collected with the Supadata transcript API through a local Codex script.
-- Public LinkedIn post notes collected with a Codex scraping script where the posts were publicly accessible.
+- 20 public LinkedIn post notes collected with a Codex scraping script where the posts were publicly accessible.
 - Source links, date signals, collection method, short excerpts, and practical research notes.
 
 ### Research Structure
@@ -29,7 +29,7 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 
 For YouTube, I used Codex with a local Python script and the Supadata YouTube transcript API. For LinkedIn, I used public HTML scraping where possible and kept the output as source notes with short excerpts. I did not commit raw third-party transcript dumps; instead I kept source URLs, collection method, curated notes, and playbook implications.
 
-The current research folder is the first pass. The next step is to add more LinkedIn coverage for the remaining selected experts and then polish the final README summary before sending the repository link.
+The current research folder includes YouTube transcript-derived notes for all 10 selected experts and two LinkedIn post notes for each expert. The next step is to polish the final source annotations and tighten the README before sending the repository link.
 
 ## 1. Tools I Installed
 
