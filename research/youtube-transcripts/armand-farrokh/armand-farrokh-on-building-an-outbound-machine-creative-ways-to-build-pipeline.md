@@ -4,10 +4,10 @@
 *Published:* 2026-05-12
 
 ## Key Takeaways
-- Outbound works better when it is treated as a machine with clear inputs, not random heroic effort.
-- Creative pipeline plays can warm up cold accounts before the direct ask.
-- Sellers need repeatable routines for finding, prioritizing, and engaging accounts.
-- Email, phone, and social touches should support each other instead of operating separately.
+- Outbound works best as a repeatable operating system, not a collection of one-off tactics.
+- Pipeline creation needs clear account selection, creative touches, and consistent execution.
+- Multi-channel outbound gives sellers more ways to create attention than email alone.
+- Managers should inspect the quality of inputs, not only the final meeting count.
 
 ---
 
@@ -798,14 +798,14 @@
 [24:59] and I will have normal bladder
 [25:01] functioning. So So no, I did not do
 [25:03] that.
-[25:04] >> You just like didn't give a [ __ ] though.
+[25:04] >> You just like didn't give a [ __ ] though.
 [25:05] You're like, I'm going to go in and make
 [25:06] my calls. I don't care if the entire
 [25:08] office can hear me.
 [25:09] >> Totally.
 [25:09] >> You know, landing a meeting or getting
 [25:11] it rejected or whatever it might be. I
-[25:12] don't give a [ __ ]
+[25:12] don't give a [ __ ]
 [25:13] >> Cuz here here's why. It's like I'll give
 [25:16] you a good example. Like before I do any
 [25:18] of these interviews,
@@ -977,7 +977,7 @@
 [30:21] engineering would do a product demo,
 [30:22] product would do something. I digress.
 [30:24] >> And then you played a highlight video of
-[30:25] people being told to [ __ ] off.
+[30:25] people being told to [ __ ] off.
 [30:28] >> Exactly. And so, but literally a month
 [30:30] into this, our team was starting to
 [30:32] cook.

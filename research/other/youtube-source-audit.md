@@ -2,30 +2,32 @@
 
 - Topic: Cold outreach pipeline for B2B SaaS
 - Audit date: 2026-07-02
-- Method: Supadata metadata check, transcript API collection, and public YouTube search review
+- Recency rule: selected YouTube videos must be published on or after 2026-01-02
+- Method: public YouTube search, Supadata metadata verification, and Supadata transcript API collection
 
 ## Why This Audit Was Added
 
-The assignment asks for recent content through APIs, but the strongest YouTube source is not always the newest video. This audit separates two decisions:
-
-- Recent source: the video is from 2025 or 2026 and directly supports the cold outreach project.
-- Most relevant durable source: the video is older, but it contains stronger cold outreach material than newer off-topic videos.
+The YouTube folder was rebuilt after tightening the requirement from "recent or durable" to a strict maximum age of 6 months. Older videos were removed even when they were useful, because the current YouTube evidence should show what cold outreach practitioners are saying in 2026.
 
 ## Selected YouTube Sources
 
-| Expert | Selected video date | Recency/relevance judgment | Reason kept |
+| Expert/source | Selected video date | Recency/relevance judgment | Reason kept |
 | --- | --- | --- | --- |
-| Jason Bay | 2025-07-24 | Recent and highly relevant | Data-backed cold email analysis from 85M+ emails; stronger than generic outbound clips. |
-| Josh Braun | 2024-01-03 | Older but highly relevant | Practical cold email follow-up examples from a known low-pressure selling practitioner. |
-| Eric Nowoslawski | 2024-01-16 | Older but highly relevant | Comprehensive cold email operating system; newer Eric videos exist, but this is broader and more useful for a playbook. |
-| Florin Tatulea | 2026-01-06 | Recent and highly relevant | Cold email teardown format with current sales-development framing. |
-| Becc Holland | 2025-07-23 | Recent and highly relevant | Directly about the 2025 outbound playbook and modern outbound messaging. |
-| Armand Farrokh | 2026-05-12 | Recent and highly relevant | Directly covers building an outbound machine and creative pipeline generation. |
-| Nick Cegelski | 2024-06-27 | Older but highly relevant | Short, direct cold email step-by-step guide; still useful as tactical source material. |
-| Will Allred | 2025-09-03 | Recent and highly relevant | Email quality, personalization, and smarter outbound with Lavender/Smartlead. |
-| Belal Batrawy | 2021-02-17 | Older but highly relevant | Strong cold-calling practitioner source; newer visible results were less specific to cold outreach. |
-| Jesse Ouellette | 2025-08-28 | Recent and highly relevant | Email waterfall, deliverability, and data quality are central to cold outreach infrastructure. |
+| Jason Bay | 2026-05-05 | Within 6 months and highly relevant | Cold email masterclass on booking meetings in 2026. |
+| Armand Farrokh | 2026-05-12 | Within 6 months and highly relevant | Covers building an outbound machine and creative pipeline generation. |
+| Florin Tatulea | 2026-01-06 | Within 6 months and highly relevant | Cold email teardown with practical copy and targeting lessons. |
+| Eric Nowoslawski | 2026-03-05 | Within 6 months and highly relevant | Data-backed cold email follow-up strategy for 2026. |
+| Nick Abraham | 2026-02-23 | Within 6 months and highly relevant | Deliverability rules and spam-folder avoidance for cold email. |
+| Matt Lucero | 2026-04-12 | Within 6 months and highly relevant | Full-course lead generation source focused on cold email in 2026. |
+| Connor Murray | 2026-01-12 | Within 6 months and highly relevant | SDR/AE cold email system for 2026. |
+| Jeremy Miner | 2026-04-16 | Within 6 months and relevant | Cold-calling techniques that support multi-channel outbound. |
+| Aaron Shepherd | 2026-01-05 | Within 6 months and relevant | Cold email setup walkthrough for domains, workflow, and campaign basics. |
+| Adam Robinson | 2026-01-21 | Within 6 months and relevant | Contrarian pressure test on why generic cold email is weakening in 2026. |
+
+## Rejected Older YouTube Sources
+
+Older transcript files were removed from the YouTube folder because they failed the 6-month rule, including 2025, 2024, and 2021 videos from the earlier research pass. Some of those sources are still useful conceptually, but they are no longer used as YouTube transcript evidence for this assignment.
 
 ## Result
 
-The repo keeps a mix of recent videos and older durable sources. Older videos are not presented as latest content; they are kept because they are stronger fit for the cold outreach pipeline topic.
+All current files in `research/youtube-transcripts/` are 2026 sources collected through the Supadata transcript API and formatted with key takeaways plus full timestamped transcripts.

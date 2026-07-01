@@ -4,10 +4,10 @@
 *Published:* 2026-01-06
 
 ## Key Takeaways
-- Good cold email starts with context: why this person, why this company, why now.
-- Personalization is not enough unless it connects to a business problem.
-- The email should describe the current pain and the better future state clearly.
-- Specificity is usually more persuasive than broad claims.
+- Cold email quality improves when the writer names a specific business problem quickly.
+- Generic personalization is weaker than a relevant trigger or account-level observation.
+- The best edits remove fluff and make the next step easier to answer.
+- A teardown format turns abstract copy rules into practical examples.
 
 ---
 

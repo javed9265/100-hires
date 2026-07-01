@@ -12,7 +12,7 @@ Latest audit/depth update: 2026-07-02
 - Teaches from field examples, client work, operating experience, or repeatable systems.
 - Has collectable source material from YouTube, LinkedIn, podcasts, newsletters, or company resources.
 
-## Selected Expert Set For First Research Pass
+## Selected LinkedIn Expert Set For First Research Pass
 
 | Status | Expert | Why considered | Source links found |
 | --- | --- | --- | --- |
@@ -26,6 +26,23 @@ Latest audit/depth update: 2026-07-02
 | Selected | Will Allred | Co-founder of Lavender; teaches sales email quality, personalization, and data-backed outbound writing. | LinkedIn: https://www.linkedin.com/in/williamallred/ ; YouTube: https://www.youtube.com/watch?v=gG9-xfMRSxY |
 | Selected | Belal Batrawy | Outbound sales practitioner known for no-fluff cold call and messaging breakdowns. | LinkedIn: https://www.linkedin.com/in/belbatrawy/ ; YouTube: https://www.youtube.com/watch?v=m2UBXcY4KCE |
 | Selected | Jesse Ouellette | Founder/operator focused on cold email infrastructure, email waterfall, list building, and deliverability. | YouTube: https://www.youtube.com/watch?v=FSc54cRCdJk ; YouTube backup: https://www.youtube.com/watch?v=pQRfa86Qf3k |
+
+## Recent YouTube Source Set
+
+The YouTube set was rebuilt with a stricter recency rule: every selected video must be published on or after 2026-01-02, which is within 6 months of the July 2, 2026 audit date.
+
+| Expert/source | Video | Published | Why selected |
+| --- | --- | --- | --- |
+| Jason Bay | https://www.youtube.com/watch?v=JX1UNIJwcCY | 2026-05-05 | Recent cold email masterclass focused on booking meetings in 2026. |
+| Armand Farrokh | https://www.youtube.com/watch?v=B6ttjBRnLqY | 2026-05-12 | Recent outbound-machine discussion with pipeline-generation tactics. |
+| Florin Tatulea | https://www.youtube.com/watch?v=Ag-6pB51s5o | 2026-01-06 | Recent cold email teardown with practical copy-quality lessons. |
+| Eric Nowoslawski | https://www.youtube.com/watch?v=UDNdgW5cMw0 | 2026-03-05 | Recent data-backed cold email follow-up strategy. |
+| Nick Abraham | https://www.youtube.com/watch?v=h2j0gFz9RH4 | 2026-02-23 | Recent cold email deliverability rules and spam-folder prevention. |
+| Matt Lucero | https://www.youtube.com/watch?v=BakY-82NYVQ | 2026-04-12 | Recent full-course source on lead generation with cold email. |
+| Connor Murray | https://www.youtube.com/watch?v=_uvWsGqWxr0 | 2026-01-12 | Recent SDR/AE cold email system for 2026. |
+| Jeremy Miner | https://www.youtube.com/watch?v=il2p-OD4Res | 2026-04-16 | Recent cold-calling source to support multi-channel outbound. |
+| Aaron Shepherd | https://www.youtube.com/watch?v=L-E2HEtXTjc | 2026-01-05 | Recent cold email setup walkthrough for infrastructure and workflow. |
+| Adam Robinson | https://www.youtube.com/watch?v=P7dNHG1Xu6E | 2026-01-21 | Recent contrarian source on what works as generic cold email weakens. |
 
 ## Backup Experts Considered
 
@@ -63,8 +80,8 @@ These are not all latest posts. They are supporting posts selected because they 
 
 ## Collection Notes
 
-- YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/fetch_supadata_transcript.py`.
-- YouTube transcript files were rebuilt into the assignment format with `tools/rebuild_youtube_transcript_files.py`.
+- YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/build_recent_youtube_transcripts.py`.
+- YouTube transcript files were rebuilt into the assignment format after enforcing the 6-month recency rule.
 - YouTube recency and relevance decisions are documented in `research/other/youtube-source-audit.md`.
 - Public LinkedIn posts were scraped with `tools/scrape_linkedin_post.py`.
 - Latest visible LinkedIn posts were then checked through logged-in recent activity pages and summarized in each author's `latest-visible-posts.md` file, with 3-4 items recorded where available.
