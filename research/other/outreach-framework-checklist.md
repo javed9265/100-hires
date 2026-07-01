@@ -83,7 +83,7 @@ Quality gate: If results are poor, diagnose in order: list fit, deliverability, 
 ## Evidence Map
 
 - Benchmarks: Instantly, Mailshake, Gong, Sopro.
-- Infrastructure: Google, Yahoo, Instantly, Unify, Jesse Ouellette, Nick Abraham.
+- Infrastructure: Google, Yahoo, Instantly, Unify, Jesse Ouellette.
 - Copy quality: Lavender, Will Allred, Jason Bay, Gong, Mailshake.
 - Sequencing: Instantly, Unify, Eric Nowoslawski, Sopro.
 - List quality: Mailshake database guide, Sopro, Eric Nowoslawski, Jesse Ouellette.

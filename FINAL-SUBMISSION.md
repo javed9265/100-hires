@@ -9,7 +9,7 @@ Submission date: 2026-07-02
 ## What This Project Contains
 
 - 10 LinkedIn expert recent-activity reviews for operators and practitioners in cold outreach, outbound sales, cold email, deliverability, and pipeline generation.
-- 10 recent YouTube transcript files, all from videos published between 2026-01-05 and 2026-05-12.
+- 10 YouTube transcript files for the same 10 experts used in the LinkedIn research set, with published dates disclosed in each file.
 - YouTube transcripts collected with the Supadata transcript API through Codex-run local scripts.
 - LinkedIn posts collected through logged-in recent activity review and documented as latest-visible post notes.
 - Additional high-signal resources in `/research/other/`, including benchmark reports, official sender guidance, company guides, a case study, and original synthesis notes.
@@ -27,11 +27,11 @@ Submission date: 2026-07-02
 - Cross-source synthesis: `research/other/cross-source-patterns.md`
 - Early playbook checklist: `research/other/outreach-framework-checklist.md`
 
-## Why The Source Sets Are Structured This Way
+## Same Expert Set Across LinkedIn And YouTube
 
-The assignment asked for 10 experts and recent content collected through APIs or manual/scraped review. I used a core LinkedIn expert roster for latest visible LinkedIn activity, then selected a separate recent YouTube transcript set when a core expert did not have a strong, topic-relevant YouTube video inside the strict 6-month window.
+The assignment asked for 10 experts and recent content collected through APIs or manual/scraped review. The final research set now uses the same 10 experts across LinkedIn notes and YouTube transcripts.
 
-This avoids padding the project with older or weaker videos just to force exact person-to-person matching. The priority was high-signal, recent material strong enough to support a future cold outreach playbook.
+LinkedIn evidence uses latest visible recent activity. YouTube evidence uses the strongest available same-expert transcript source and discloses the published date in each file, because not every selected expert has a strong 2026 YouTube source available.
 
 ## Main Research Themes Found
 

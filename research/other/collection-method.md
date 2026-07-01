@@ -15,11 +15,12 @@ Latest audit/depth update: 2026-07-02
 ## YouTube Workflow
 
 1. Find expert videos that directly discuss cold outreach, outbound sales, cold email, deliverability, or pipeline building.
-2. Apply the strict recency rule: selected YouTube videos must be published on or after 2026-01-02.
-3. Run `tools/build_recent_youtube_transcripts.py` with `SUPADATA_API_KEY` stored in the local environment.
-4. Capture source metadata and fail the build if any selected video is older than the recency cutoff.
-5. Save each YouTube file with title, expert, YouTube URL, published date, key takeaways, and full timestamped transcript.
-6. Document the recency and relevance decision in `research/other/youtube-source-audit.md`.
+2. Align the YouTube transcript roster to the same 10 experts used in the LinkedIn folder.
+3. Prefer recent videos when available, but keep older same-expert sources when no strong recent YouTube source is available.
+4. Run `tools/build_aligned_youtube_transcripts.py` with `SUPADATA_API_KEY` stored in the local environment.
+5. Capture source metadata, including the published date, for every selected video.
+6. Save each YouTube file with title, expert, YouTube URL, published date, key takeaways, and full timestamped transcript.
+7. Document the alignment and recency decision in `research/other/youtube-source-audit.md`.
 
 ## LinkedIn Workflow
 

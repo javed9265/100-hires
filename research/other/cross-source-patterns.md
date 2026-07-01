@@ -16,7 +16,7 @@ Implication for playbook: Do not start with "send more." Start with account sele
 
 ### 2. Deliverability is not optional infrastructure
 
-Jesse Ouellette, Nick Abraham, Google, Yahoo, Instantly, Unify, and Sopro all point toward the same foundation: domain setup, authentication, list verification, bounce control, and sender reputation determine whether the campaign even gets a fair test.
+Jesse Ouellette, Google, Yahoo, Instantly, Unify, and Sopro all point toward the same foundation: domain setup, authentication, list verification, bounce control, and sender reputation determine whether the campaign even gets a fair test.
 
 Implication for playbook: A campaign should not launch until SPF, DKIM, DMARC, domain alignment, mailbox setup, verification, and bounce monitoring are complete.
 

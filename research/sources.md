@@ -29,24 +29,24 @@ Latest audit/depth update: 2026-07-02
 
 This is the main LinkedIn recent-activity roster. It is focused on people who actively publish or practice cold outreach, outbound sales, deliverability, messaging, and pipeline generation.
 
-## Recent YouTube Source Set
+## Aligned YouTube Transcript Source Set
 
-The YouTube set was rebuilt with a stricter recency rule: every selected video must be published on or after 2026-01-02, which is within 6 months of the July 2, 2026 audit date.
+The YouTube set was rebuilt so it uses the same 10 experts as the LinkedIn recent-activity roster. Each transcript file includes the video title, expert name, YouTube URL, published date, key takeaways, and full timestamped transcript.
 
-The YouTube transcript roster is not forced to match the LinkedIn roster one-to-one. When a core LinkedIn expert did not have a strong, relevant YouTube source inside the strict 6-month window, I used another high-signal practitioner/source so the transcript folder stayed recent and useful instead of relying on older videos.
+Some same-expert YouTube videos are older than the latest LinkedIn posts. I kept them because the user specifically requested the LinkedIn and YouTube expert sets to match exactly. The published date is disclosed for every source.
 
 | Expert/source | Video | Published | Why selected |
 | --- | --- | --- | --- |
 | Jason Bay | https://www.youtube.com/watch?v=JX1UNIJwcCY | 2026-05-05 | Recent cold email masterclass focused on booking meetings in 2026. |
-| Armand Farrokh | https://www.youtube.com/watch?v=B6ttjBRnLqY | 2026-05-12 | Recent outbound-machine discussion with pipeline-generation tactics. |
-| Florin Tatulea | https://www.youtube.com/watch?v=Ag-6pB51s5o | 2026-01-06 | Recent cold email teardown with practical copy-quality lessons. |
+| Josh Braun | https://www.youtube.com/watch?v=f3EnXR13xxI | 2024-01-03 | Same-expert source with practical cold email follow-up examples. |
 | Eric Nowoslawski | https://www.youtube.com/watch?v=UDNdgW5cMw0 | 2026-03-05 | Recent data-backed cold email follow-up strategy. |
-| Nick Abraham | https://www.youtube.com/watch?v=h2j0gFz9RH4 | 2026-02-23 | Recent cold email deliverability rules and spam-folder prevention. |
-| Matt Lucero | https://www.youtube.com/watch?v=BakY-82NYVQ | 2026-04-12 | Recent full-course source on lead generation with cold email. |
-| Connor Murray | https://www.youtube.com/watch?v=_uvWsGqWxr0 | 2026-01-12 | Recent SDR/AE cold email system for 2026. |
-| Jeremy Miner | https://www.youtube.com/watch?v=il2p-OD4Res | 2026-04-16 | Recent cold-calling source to support multi-channel outbound. |
-| Aaron Shepherd | https://www.youtube.com/watch?v=L-E2HEtXTjc | 2026-01-05 | Recent cold email setup walkthrough for infrastructure and workflow. |
-| Adam Robinson | https://www.youtube.com/watch?v=P7dNHG1Xu6E | 2026-01-21 | Recent contrarian source on what works as generic cold email weakens. |
+| Florin Tatulea | https://www.youtube.com/watch?v=Ag-6pB51s5o | 2026-01-06 | Recent cold email teardown with practical copy-quality lessons. |
+| Becc Holland | https://www.youtube.com/watch?v=jzyS1KJKUbo | 2026-06-18 | Recent cold email conversation source with deliverability and messaging lessons. |
+| Armand Farrokh | https://www.youtube.com/watch?v=B6ttjBRnLqY | 2026-05-12 | Recent outbound-machine discussion with pipeline-generation tactics. |
+| Nick Cegelski | https://www.youtube.com/watch?v=q0B8FB3GMDk | 2025-03-16 | Same-expert source focused on cold email advice. |
+| Will Allred | https://www.youtube.com/watch?v=eGibkMf0mes | 2022-05-31 | Same-expert Lavender source with cold email breakdowns. |
+| Belal Batrawy | https://www.youtube.com/watch?v=f1FdxGD_aY4 | 2025-08-25 | Same-expert source on a cold email sequence for reply improvement. |
+| Jesse Ouellette | https://www.youtube.com/watch?v=FSc54cRCdJk | 2025-08-28 | Same-expert source on email waterfall, list quality, and deliverability. |
 
 ## Backup Experts Considered
 
@@ -74,8 +74,8 @@ Older public-search LinkedIn post files were removed. The LinkedIn evidence now 
 
 ## Collection Notes
 
-- YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/build_recent_youtube_transcripts.py`.
-- YouTube transcript files were rebuilt into the assignment format after enforcing the 6-month recency rule.
+- YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/build_aligned_youtube_transcripts.py`.
+- YouTube transcript files were rebuilt into the assignment format and then aligned to the same 10 experts used in the LinkedIn folder.
 - YouTube recency and relevance decisions are documented in `research/other/youtube-source-audit.md`.
 - Public LinkedIn scraping was used in the first pass, but older scraped post files were removed after tightening the recency standard.
 - Latest visible LinkedIn posts were then checked through logged-in recent activity pages and summarized in each author's `latest-visible-posts.md` file, with 3-4 items recorded where available.

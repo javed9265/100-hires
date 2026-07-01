@@ -29,12 +29,12 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 ### What I Collected So Far
 
 - 10 selected LinkedIn experts who actively teach or practice cold outreach, outbound sales, cold email, cold calling, deliverability, or pipeline building.
-- 10 recent YouTube sources, all published between January 5, 2026 and May 12, 2026, collected with the Supadata transcript API and rewritten into a consistent format with key takeaways and full timestamped transcript sections.
+- 10 YouTube transcript sources for the same 10 experts used in the LinkedIn research set. These were collected with the Supadata transcript API and rewritten into a consistent format with key takeaways, published dates, and full timestamped transcript sections.
 - Latest visible LinkedIn post audits for all 10 experts, collected after signing into LinkedIn and reviewing each expert's recent activity page. Each expert now has 3-4 latest or recently visible items recorded.
 - A focused `/research/other/` support layer with 2026 cold email benchmarks, official Gmail/Yahoo sender guidance, data-backed Gong/30MPC research, Sopro prospecting resources, company guides, templates, a case study, and original cross-source synthesis notes.
 - Source links, date signals, collection method, full YouTube transcript sections, short LinkedIn excerpts, and practical research notes.
 
-The LinkedIn expert roster and the YouTube transcript roster are intentionally not forced to be identical. For LinkedIn, I used latest visible activity from the selected expert set. For YouTube, I prioritized strict recency and topic relevance, so I used recent transcript sources when a selected LinkedIn expert did not have a strong YouTube video inside the 6-month window.
+The LinkedIn expert roster and the YouTube transcript roster now use the same 10 experts. For LinkedIn, I used latest visible activity from each expert. For YouTube, I used the strongest available same-expert transcript source and disclosed the published date in every file.
 
 ### Research Structure
 
@@ -46,7 +46,7 @@ The LinkedIn expert roster and the YouTube transcript roster are intentionally n
 
 ### Collection Method
 
-For YouTube, I used Codex with local Python scripts and the Supadata YouTube transcript API. After tightening the requirement, I rebuilt the YouTube folder with only sources published inside the last 6 months from July 2, 2026. Each YouTube file now includes the video title, expert, YouTube URL, published date, key takeaways, and a full timestamped transcript section. For LinkedIn, I used public HTML scraping where possible, then reviewed the experts' recent activity pages through a logged-in LinkedIn browser session to verify latest visible posts.
+For YouTube, I used Codex with local Python scripts and the Supadata YouTube transcript API. After tightening the requirement that the same 10 experts should appear across LinkedIn and YouTube, I rebuilt the YouTube folder so it matches the LinkedIn expert roster exactly. Each YouTube file now includes the video title, expert, YouTube URL, published date, key takeaways, and a full timestamped transcript section. For LinkedIn, I used public HTML scraping where possible, then reviewed the experts' recent activity pages through a logged-in LinkedIn browser session to verify latest visible posts.
 
 The current research folder includes full recent YouTube transcript files for 10 high-relevance cold outreach sources, a latest-visible-post audit for each LinkedIn expert with 3-4 recent items where available, and `research/other/linkedin-expanded-notes.md` with compact content notes for each expert. Older LinkedIn supporting post files were removed so the LinkedIn evidence now points to recent/latest visible activity instead of older public-search posts.
 

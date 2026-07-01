@@ -1,33 +1,31 @@
-# YouTube Source Recency And Relevance Audit
+# YouTube Source Alignment And Relevance Audit
 
 - Topic: Cold outreach pipeline for B2B SaaS
 - Audit date: 2026-07-02
-- Recency rule: selected YouTube videos must be published on or after 2026-01-02
 - Method: public YouTube search, Supadata metadata verification, and Supadata transcript API collection
+- Final rule: YouTube transcript experts must match the same 10 experts used in `research/linkedin-posts/`
 
-## Why This Audit Was Added
+## Why This Audit Was Updated
 
-The YouTube folder was rebuilt after tightening the requirement from "recent or durable" to a strict maximum age of 6 months. Older videos were removed even when they were useful, because the current YouTube evidence should show what cold outreach practitioners are saying in 2026.
+The YouTube folder was rebuilt so the same 10 experts appear across LinkedIn and YouTube. This keeps the research project consistent and easy to evaluate against the assignment's "10 experts" requirement.
+
+The final YouTube set therefore prioritizes exact expert alignment first, then recency and relevance. When a selected expert had a strong 2026 YouTube source, I used it. When they did not, I used the strongest available same-expert source and disclosed the published date.
 
 ## Selected YouTube Sources
 
-| Expert/source | Selected video date | Recency/relevance judgment | Reason kept |
+| Expert/source | Selected video date | Alignment/relevance judgment | Reason kept |
 | --- | --- | --- | --- |
-| Jason Bay | 2026-05-05 | Within 6 months and highly relevant | Cold email masterclass on booking meetings in 2026. |
-| Armand Farrokh | 2026-05-12 | Within 6 months and highly relevant | Covers building an outbound machine and creative pipeline generation. |
-| Florin Tatulea | 2026-01-06 | Within 6 months and highly relevant | Cold email teardown with practical copy and targeting lessons. |
-| Eric Nowoslawski | 2026-03-05 | Within 6 months and highly relevant | Data-backed cold email follow-up strategy for 2026. |
-| Nick Abraham | 2026-02-23 | Within 6 months and highly relevant | Deliverability rules and spam-folder avoidance for cold email. |
-| Matt Lucero | 2026-04-12 | Within 6 months and highly relevant | Full-course lead generation source focused on cold email in 2026. |
-| Connor Murray | 2026-01-12 | Within 6 months and highly relevant | SDR/AE cold email system for 2026. |
-| Jeremy Miner | 2026-04-16 | Within 6 months and relevant | Cold-calling techniques that support multi-channel outbound. |
-| Aaron Shepherd | 2026-01-05 | Within 6 months and relevant | Cold email setup walkthrough for domains, workflow, and campaign basics. |
-| Adam Robinson | 2026-01-21 | Within 6 months and relevant | Contrarian pressure test on why generic cold email is weakening in 2026. |
-
-## Rejected Older YouTube Sources
-
-Older transcript files were removed from the YouTube folder because they failed the 6-month rule, including 2025, 2024, and 2021 videos from the earlier research pass. Some of those sources are still useful conceptually, but they are no longer used as YouTube transcript evidence for this assignment.
+| Jason Bay | 2026-05-05 | Same expert, recent, highly relevant | Cold email masterclass on booking meetings in 2026. |
+| Josh Braun | 2024-01-03 | Same expert, older, relevant | Practical cold email follow-up examples from a selected expert. |
+| Eric Nowoslawski | 2026-03-05 | Same expert, recent, highly relevant | Data-backed cold email follow-up strategy for 2026. |
+| Florin Tatulea | 2026-01-06 | Same expert, recent, highly relevant | Cold email teardown with practical copy and targeting lessons. |
+| Becc Holland | 2026-06-18 | Same expert, recent, highly relevant | Cold email conversation source with messaging and deliverability lessons. |
+| Armand Farrokh | 2026-05-12 | Same expert, recent, highly relevant | Covers building an outbound machine and creative pipeline generation. |
+| Nick Cegelski | 2025-03-16 | Same expert, older, relevant | Practical cold email advice from a selected 30MPC expert. |
+| Will Allred | 2022-05-31 | Same expert, older, relevant | Cold email breakdowns from Lavender's co-founder. |
+| Belal Batrawy | 2025-08-25 | Same expert, recent enough, relevant | Cold email sequence source connected to replies and follow-up structure. |
+| Jesse Ouellette | 2025-08-28 | Same expert, recent enough, highly relevant | Email waterfall, list quality, and deliverability source. |
 
 ## Result
 
-All current files in `research/youtube-transcripts/` are 2026 sources collected through the Supadata transcript API and formatted with key takeaways plus full timestamped transcripts.
+All current files in `research/youtube-transcripts/` now match the same 10 experts used in `research/linkedin-posts/`. Each file was collected through the Supadata transcript API and formatted with key takeaways plus a full timestamped transcript section.
