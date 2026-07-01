@@ -17,6 +17,15 @@ Jesse Ouellette is included because deliverability and data quality decide wheth
 - Cold email systems need monitoring, not one-time setup.
 - Data quality and inbox health should be checked before judging campaign performance.
 
+## Condensed Transcript Notes
+
+- Opening: Jesse frames email finding and validation as infrastructure, not admin work.
+- Waterfall section: multiple sources can improve coverage when they are used intelligently rather than blindly.
+- Validation section: over-validating can create false negatives, waste credits, and distort data quality.
+- Deliverability section: inbox health, bounce behavior, catch-all domains, and SMTP responses should be monitored.
+- Operations section: a strong cold email process separates list quality from copy and offer quality.
+- Practical takeaway: data operations decide whether a cold email system can scale without damaging domains.
+
 ## Useful Playbook Implications
 
 - Add email verification and waterfall logic before campaign launch.

@@ -10,8 +10,11 @@
 | --- | --- | --- | --- |
 | 1 | 9m | https://www.linkedin.com/feed/update/urn:li:activity:7478149489560821760/ | Highly relevant. Says cold email still works when done correctly and references 13 rapid-fire cold email and deliverability tips. |
 | 2 | 5d | https://www.linkedin.com/feed/update/urn:li:activity:7476315335940493312/ | Low relevance. Personal/life update, not useful for the playbook. |
+| 3 | 1mo | https://www.linkedin.com/feed/update/urn:li:activity:7460687975421689857/ | Highly relevant. Five cold email sequence tips including pattern interrupts and third-party content. |
+| 4 | 1mo | https://www.linkedin.com/feed/update/urn:li:activity:7460313099628359680/ | Highly relevant. Five changes to cold emails tied to booking SQLs consistently from outbound. |
 
 ## Notes
 
 - Becc's latest visible post is exactly the kind of recent content Alex asked for.
 - The older 1-month cold email sequence posts remain useful supporting material, but this latest-post audit should be cited first.
+- Four items are recorded; post 2 is off-topic, while posts 1, 3, and 4 are strong cold email material.

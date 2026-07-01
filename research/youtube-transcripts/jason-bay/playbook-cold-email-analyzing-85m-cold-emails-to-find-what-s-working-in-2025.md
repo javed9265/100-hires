@@ -18,6 +18,15 @@ Jason Bay is a strong source because his work sits close to the actual outbound 
 - Plain text, short copy, and one clear call to action reduce friction.
 - Deliverability is now part of conversion, not just a technical detail.
 
+## Condensed Transcript Notes
+
+- Opening: the session frames cold email as a 2025 operating problem, not just a copywriting problem.
+- Data section: the study points to short emails, simple subject lines, social proof, and CTA choice as major performance variables.
+- Targeting section: the strongest campaigns move away from broad personas and toward specific company-level signals.
+- Messaging section: product-heavy language and generic ROI claims are treated as risky because they sound like vendor noise.
+- Channel section: email performs better when voicemail, phone, and other attention channels support it.
+- Measurement section: replies and positive replies matter more than opens because opens can be distorted by tracking and bots.
+
 ## Useful Playbook Implications
 
 - Build the pipeline around triggers: funding, hiring, tool changes, leadership changes, expansion, or public initiatives.

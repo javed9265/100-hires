@@ -17,6 +17,15 @@ Armand Farrokh is useful because his work on 30 Minutes to President's Club is t
 - Sellers need repeatable routines for finding, prioritizing, and engaging accounts.
 - Email, phone, and social touches should support each other instead of operating separately.
 
+## Condensed Transcript Notes
+
+- Opening: Armand talks about pipeline generation as a repeatable operating motion.
+- Account section: sellers should decide which accounts deserve deeper manual effort versus lighter touches.
+- Creative section: strong plays create attention before the ask, instead of relying only on a cold email.
+- Channel section: phone, email, LinkedIn, and offline ideas should work together as one play.
+- Management section: outbound needs coaching, inspection, and habits, not just activity dashboards.
+- Practical takeaway: build a pipeline machine around account selection, message quality, and weekly execution rhythm.
+
 ## Useful Playbook Implications
 
 - Design outbound sequences as coordinated plays, not isolated email templates.

@@ -31,3 +31,7 @@ The repo now separates two source types:
 - Topic-relevant LinkedIn posts: collected because they are stronger material for building a cold outreach playbook.
 
 When the latest post was off-topic, it is marked as low relevance instead of being forced into the playbook.
+
+## Coverage Upgrade
+
+Each expert now has 3-4 latest visible or recently visible LinkedIn items recorded in their author folder. Some experts have more than one off-topic recent post, so the files keep the latest record visible while marking which items are actually useful for the cold outreach project.

@@ -17,6 +17,14 @@ Josh Braun is useful for this project because he focuses on buyer psychology, re
 - Buyers resist when the message feels like a pitch before trust or relevance has been established.
 - A good follow-up can be short while still being specific.
 
+## Condensed Transcript Notes
+
+- Opening: Josh treats follow-up as a continuation of relevance, not a reminder mechanism.
+- Example section: weak follow-ups ask for attention again; stronger follow-ups add a new reason to care.
+- Buyer psychology section: most prospects are not ready to buy, so messages should reduce pressure.
+- Writing section: the message should be clear, conversational, and specific to a problem or useful next step.
+- Practical takeaway: follow-up works best when each touch has its own value and does not sound automated.
+
 ## Useful Playbook Implications
 
 - Write follow-ups as new value moments, not reminders.
