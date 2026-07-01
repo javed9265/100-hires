@@ -15,6 +15,7 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 - 10 selected experts who actively teach or practice cold outreach, outbound sales, cold email, cold calling, deliverability, or pipeline building.
 - YouTube transcript-derived notes collected with the Supadata transcript API through a local Codex script.
 - 20 public LinkedIn post notes collected with a Codex scraping script where the posts were publicly accessible.
+- Latest visible LinkedIn post audits for all 10 experts, collected after signing into LinkedIn and reviewing each expert's recent activity page.
 - Source links, date signals, collection method, short excerpts, and practical research notes.
 
 ### Research Structure
@@ -27,9 +28,9 @@ I chose this topic because it connects directly to B2B sales, prospecting, CRM f
 
 ### Collection Method
 
-For YouTube, I used Codex with a local Python script and the Supadata YouTube transcript API. For LinkedIn, I used public HTML scraping where possible and kept the output as source notes with short excerpts. I did not commit raw third-party transcript dumps; instead I kept source URLs, collection method, curated notes, and playbook implications.
+For YouTube, I used Codex with a local Python script and the Supadata YouTube transcript API. For LinkedIn, I used public HTML scraping where possible, then reviewed the experts' recent activity pages through a logged-in LinkedIn browser session to verify latest visible posts. I did not commit raw third-party transcript dumps; instead I kept source URLs, collection method, curated notes, date signals, and playbook implications.
 
-The current research folder includes YouTube transcript-derived notes for all 10 selected experts and two LinkedIn post notes for each expert. The next step is to polish the final source annotations and tighten the README before sending the repository link.
+The current research folder includes YouTube transcript-derived notes for all 10 selected experts, two topic-relevant LinkedIn post notes for each expert, and a latest-visible-post audit for each expert. The latest audit is intentionally transparent: when an expert's newest visible posts were off-topic, I marked that instead of forcing weak material into the playbook.
 
 ## 1. Tools I Installed
 

@@ -62,5 +62,7 @@ Collection date: 2026-07-01
 
 - YouTube transcripts were collected with the Supadata YouTube transcript API via `tools/fetch_supadata_transcript.py`.
 - Public LinkedIn posts were scraped with `tools/scrape_linkedin_post.py`.
+- Latest visible LinkedIn posts were then checked through logged-in recent activity pages and summarized in each author's `latest-visible-posts.md` file.
+- The latest-post audit is summarized in `research/other/latest-linkedin-audit.md`.
 - Raw transcript dumps were converted into curated source notes, short excerpts, and playbook implications before committing.
-- Additional LinkedIn collection may need manual browser review if a high-value post is hidden behind login or anti-bot controls.
+- When an expert's literal latest posts were off-topic, they were still recorded for transparency and older topic-relevant posts were kept as supporting playbook material.
