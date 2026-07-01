@@ -77,5 +77,8 @@ Older public-search LinkedIn post files were removed. The LinkedIn evidence now 
 - Latest visible LinkedIn posts were then checked through logged-in recent activity pages and summarized in each author's `latest-visible-posts.md` file, with 3-4 items recorded where available.
 - The latest-post audit is summarized in `research/other/latest-linkedin-audit.md`.
 - Expanded recent LinkedIn content notes are summarized in `research/other/linkedin-expanded-notes.md`.
+- Non-LinkedIn and non-YouTube supporting resources are curated in `research/other/high-signal-resources.md`.
+- Cross-source agreements, disagreements, and early playbook thesis notes are in `research/other/cross-source-patterns.md`.
+- A practical pipeline checklist synthesized from the research is in `research/other/outreach-framework-checklist.md`.
 - YouTube files include key takeaways and full timestamped transcript sections collected through the transcript API.
 - When an expert's literal latest posts were off-topic, they were still recorded for transparency instead of being replaced with older LinkedIn material.
